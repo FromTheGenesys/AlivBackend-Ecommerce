@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# Set general conditions for directories, files and symbolic links
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-l
+
+RewriteRule ^(.+)* index.php?arguments=$1 [QSA,L]
+
+# Disable Directory Browsing
+Options -Indexes
+

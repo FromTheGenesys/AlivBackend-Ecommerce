@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "AmazonEmberBold";
+    src: url("../fonts/AmazonEmber_W_Bd.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberBoldItalic";
+    src: url("../fonts/AmazonEmber_W_BdIt.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberHeavy";
+    src: url("../fonts/AmazonEmber_W_He.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberHeavyItalic";
+    src: url("../fonts/AmazonEmber_W_HeIt.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberLight";
+    src: url("../fonts/AmazonEmber_W_Lt.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberLightItalic";
+    src: url("../fonts/AmazonEmber_W_LtIt.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberRegular";
+    src: url("../fonts/AmazonEmber_W_Rg.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberRegularItalic";
+    src: url("../fonts/AmazonEmber_W_RgIt.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberThin";
+    src: url("../fonts/AmazonEmber_W_Th.woff");
+}
+
+@font-face {
+    font-family: "AmazonEmberThinItalic";
+    src: url("../fonts/AmazonEmber_W_ThIt.woff");
+}
+
+@font-face {
+    font-family: "MartianBThai-Regular";
+    src: url("../fonts/MartianBThai-Regular.otf");
+}
+
+@font-face {
+    font-family: "MartianBThai-Bold";
+    src: url("../fonts/MartianBThai-Regular.otf");
+}
+
+h3 {
+    font-family: MartianBThai-Bold;
+}
+
+h4 {
+    font-family: MartianBThai-Bold;
+}

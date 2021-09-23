@@ -1,0 +1,19 @@
+.cheque {
+    display: none;
+}
+
+.cheque tbody {
+    max-width: 100%;
+}
+
+.cheque tr {
+    max-width: 100%;
+}
+
+.cheque td {
+    max-width: 100%;
+}
+
+#FullOrder {
+    display: none;
+}
