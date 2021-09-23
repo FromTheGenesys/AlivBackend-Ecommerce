@@ -40,18 +40,18 @@
            # *********************************************** #
             # GENESYS PROJECT DATABASE CONFIGURATION SETTINGS #
             # *********************************************** #
-            define( 'gpDataCfg',  [ 'HOST'        =>      'localhost',                                    
-                                    'USER'        =>      'root',
-                                    'PWSD'        =>      'root',
-                                    'SOURCE'      =>      'AlivCommerce' ] );
+            define( 'gpDataCfg',  [ 'HOST'        =>      '',                                    
+                                    'USER'        =>      '',
+                                    'PWSD'        =>      '',
+                                    'SOURCE'      =>      '' ] );
 
             # *********************************************** #
             # GENESYS PROJECT DATABASE CONFIGURATION SETTINGS #
             # *********************************************** #
-            define( 'gpDataCfg2', [ 'gpHOST'        =>      'localhost',                                    
-                                    'gpUSER'        =>      'root',
-                                    'gpPSWD'        =>      'root',
-                                    'gpSOURCE'      =>      'AlivCommerce',
+            define( 'gpDataCfg2', [ 'gpHOST'        =>      '',                                    
+                                    'gpUSER'        =>      '',
+                                    'gpPSWD'        =>      '',
+                                    'gpSOURCE'      =>      '',
                                     'gpPLATFORM'    =>      'mysql',
                                     'gpCHARSET'     =>      'utf8mb4',
                                     'gpDEBUG'       =>      true ] );
